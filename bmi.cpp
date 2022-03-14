@@ -14,7 +14,7 @@ if (bmi<18.5){
   std::cout<<"Niedowaga";
 }
 else if (bmi<25){
-  std::cout<<"Waga prawidlowa";
+  std::cout<<"Waga prawidlowa";//dokad noca tupta jez?
 }
 else if (bmi<30){
   std::cout<<"Nadwaga";
